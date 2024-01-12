@@ -1,37 +1,5 @@
 [
     {
-        "number": 3735,
-        "author": "ack-bot",
-        "date_created": "2023-12-14T23:32:24Z",
-        "time_to_merge": 749,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 3736,
-        "author": "ack-bot",
-        "date_created": "2023-12-14T23:39:46Z",
-        "time_to_merge": 1492,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 3737,
-        "author": "ack-bot",
-        "date_created": "2023-12-14T23:39:46Z",
-        "time_to_merge": 1529,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 3738,
-        "author": "ack-bot",
-        "date_created": "2023-12-14T23:45:34Z",
-        "time_to_merge": 1150,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
         "number": 3739,
         "author": "ack-bot",
         "date_created": "2023-12-14T23:46:56Z",
@@ -796,6 +764,38 @@
         "author": "Allda",
         "date_created": "2024-01-10T09:20:21Z",
         "time_to_merge": 2023,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3867,
+        "author": "ack-bot",
+        "date_created": "2024-01-10T17:38:04Z",
+        "time_to_merge": 83943,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3869,
+        "author": "ack-bot",
+        "date_created": "2024-01-10T23:18:34Z",
+        "time_to_merge": 50391,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3870,
+        "author": "maistra-bot",
+        "date_created": "2024-01-11T03:23:00Z",
+        "time_to_merge": 1359,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3876,
+        "author": "konveyor-release-bot",
+        "date_created": "2024-01-11T20:21:43Z",
+        "time_to_merge": 1645,
         "authorizer": "maintainer",
         "interaction": "maintainer set authorized-changes"
     }
